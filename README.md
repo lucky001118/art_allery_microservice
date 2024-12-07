@@ -140,7 +140,7 @@ For production, consider enabling the following:
 
 ## Contact
 
-For queries or support, reach out to the project maintainer at **[your-email@example.com](mailto:manikpurilucky218@gmail.com)**.
+For queries or support, reach out to the project maintainer at **[manikpurilucky218@gmail.com](mailto:manikpurilucky218@gmail.com)**.
 ```
 
 Make sure to customize the content based on your specific project structure and details. Let me know if you'd like additional details!
