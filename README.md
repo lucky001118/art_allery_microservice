@@ -139,21 +139,9 @@ For production, consider enabling the following:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contribution
-
-Feel free to contribute to this project. Open a pull request or create an issue for any improvements or bugs.
-
----
-
 ## Contact
 
-For queries or support, reach out to the project maintainer at **[your-email@example.com](mailto:your-email@example.com)**.
+For queries or support, reach out to the project maintainer at **[your-email@example.com](mailto:manikpurilucky218@gmail.com)**.
 ```
 
 Make sure to customize the content based on your specific project structure and details. Let me know if you'd like additional details!
