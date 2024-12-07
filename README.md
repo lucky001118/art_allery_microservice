@@ -1,5 +1,4 @@
-```markdown
-# Art Gallery Microservices - Config Server
+## Art Gallery Microservices - Config Server
 
 This repository contains the configuration server for the **Art Gallery** application, an e-commerce platform for buying and selling art. The Config Server centralizes and manages configuration for all the microservices in the system, ensuring a consistent and seamless deployment process.
 
