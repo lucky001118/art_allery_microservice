@@ -1,3 +1,5 @@
+#This is the configuration of the Service Registry of the art_gallery
+
 eureka:
   instance:
     prefer-ip-address: true
